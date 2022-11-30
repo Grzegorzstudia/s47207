@@ -1,10 +1,46 @@
-body{
-    font-family: 'Gill Sans', 'Times New Roman', serif, 'Times New Roman', serif;
-    background:url(congruent_pentagon.png);
-    margin:0;
-    padding: 0;
-    color:#000000;
-    font-size: 20px;
+p{
+  background-color:green;
+  font-family: Times New Roman;
+  font-size: 20px;
+  color:black;
+  text-align:center;
+  letter-spacing: 2px;
+}
+h1{
+        background-color: #0277BD;
+        border-radius: 20px;
+        margin: 0 auto;
+        width: 50%;
+        height: 50px;
+        text-align: center;
+        padding: 20px 0px 0px 0px;
+        letter-spacing: 1px;
+        font-size: 25px;
+        color:white;
+}
+h2{
+        background-color: #8532a8;
+        border-radius: 20px;
+        margin: 0 auto;
+        width: 50%;
+        height: 50px;
+        text-align: center;
+        padding: 20px 0px 0px 0px;
+        letter-spacing: 1px;
+        font-size: 25px;
+        color:white;
+}
+h3{
+        background-color: #877d0b;
+        border-radius: 20px;
+        margin: 0 auto;
+        width: 50%;
+        height: 50px;
+        text-align: center;
+        padding: 20px 0px 0px 0px;
+        letter-spacing: 1px;
+        font-size: 25px;
+        color:white;
 }
 
 
