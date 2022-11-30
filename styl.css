@@ -13,38 +13,37 @@ p{
   padding: 5px;
 }
 
-h1{
-        background-color: #0000FF;
-        border-radius: 20px;
-        margin: 0 auto;
-        width: 50%;
-        height: 50px;
-        text-align: center;
-        padding: 20px 0px 0px 0px;
-        font-size: 25px;
-        
-}
-h2{
-        background-color: #000000;
-        border-radius: 20px;
-        margin: 0 auto;
-        width: 50%;
-        height: 50px;
-        text-align: center;
-        padding: 20px 0px 0px 0px;
-        font-size: 25px;
-   
-}
 h3{
-        background-color: #FF00FF;
-        border-radius: 20px;
-        margin: 0 auto;
-        width: 50%;
-        height: 50px;
-        text-align: center;
-        padding: 20px 0px 0px 0px;
-        font-size: 25px;
+    background-color: #63bc46;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+    letter-spacing: 1px;
+    font-size: 25px;
+    color:white;
+}
         
 
+h3{
+    background-color: #63bc46;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+    letter-spacing: 1px;
+    font-size: 25px;
+    color:white; 
+}
+h3{
+    background-color: #63bc46;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+    letter-spacing: 1px;
+    font-size: 25px;
+    color:white;
+        
 }
 
